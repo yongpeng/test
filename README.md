@@ -1,4 +1,4 @@
-test
+Readme
 ====
 
-testing purpose only
+Read only
